@@ -1,0 +1,5 @@
+2) What is setTimeout and setInterval?
+
+
+            setTimeout and setInterval are JavaScript timing events. The setTimeout method executes a function after a 
+delay. setInterval calls a function repeatedly with a delay between each call.

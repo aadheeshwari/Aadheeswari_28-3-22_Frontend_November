@@ -1,0 +1,7 @@
+4) How do I start Bootstrap?
+
+       Step 1: Setup and overview. Create an HTML page. Load Bootstrap via CDN or host it locally. Include jQuery. Load 
+Bootstrap JavaScript. Put it all together.
+
+       Step 2: Design your landing page. Add a navigation bar. Include custom CSS. Create a page content container. 
+Add background image and custom JavaScript.
